@@ -1,4 +1,4 @@
-// Vencord eafbc0d
+// Vencord d58106d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
