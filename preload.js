@@ -1,4 +1,4 @@
-// Vencord d58106d
+// Vencord f9bd545
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
