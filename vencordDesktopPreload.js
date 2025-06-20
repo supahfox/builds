@@ -1,4 +1,4 @@
-// Vencord 43a05c6
+// Vencord caf269c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
