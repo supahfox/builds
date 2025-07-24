@@ -1,4 +1,4 @@
-// Vencord 502e8c5
+// Vencord 0ce1731
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
