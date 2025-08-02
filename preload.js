@@ -1,4 +1,4 @@
-// Vencord 0ce1731
+// Vencord aa74d77
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
