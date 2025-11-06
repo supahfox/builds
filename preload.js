@@ -1,4 +1,4 @@
-// Vencord fbe89bb
+// Vencord fa43305
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
