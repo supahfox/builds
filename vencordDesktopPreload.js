@@ -1,4 +1,4 @@
-// Vencord fa43305
+// Vencord b22f4af
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
