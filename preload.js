@@ -1,4 +1,4 @@
-// Vencord 2ea223d
+// Vencord 3bd3e74
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
