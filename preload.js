@@ -1,4 +1,4 @@
-// Vencord 3af9827
+// Vencord 1a5272d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
