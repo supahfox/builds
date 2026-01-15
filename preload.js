@@ -1,4 +1,4 @@
-// Vencord 207540a
+// Vencord cc85a8f
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
