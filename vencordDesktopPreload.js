@@ -1,4 +1,4 @@
-// Vencord e97318e
+// Vencord bad3277
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
