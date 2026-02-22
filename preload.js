@@ -1,4 +1,4 @@
-// Vencord bad3277
+// Vencord a32e096
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
