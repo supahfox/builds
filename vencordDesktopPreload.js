@@ -1,4 +1,4 @@
-// Vencord e064e25
+// Vencord b90705b
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
