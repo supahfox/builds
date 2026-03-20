@@ -1,4 +1,4 @@
-// Vencord 387eb78
+// Vencord 08f2201
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
