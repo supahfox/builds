@@ -1,4 +1,4 @@
-// Vencord 08f2201
+// Vencord a47671c
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
