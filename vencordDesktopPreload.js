@@ -1,4 +1,4 @@
-// Vencord 71966c6
+// Vencord 92540a2
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
