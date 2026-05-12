@@ -1,4 +1,4 @@
-// Vencord fea80d5
+// Vencord fbae582
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
