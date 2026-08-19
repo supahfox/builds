@@ -1,4 +1,4 @@
-// Vencord d71100f
+// Vencord f3ac958
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
