@@ -1,4 +1,4 @@
-// Vencord d99c686
+// Vencord ac616fd
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
