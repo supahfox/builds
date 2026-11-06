@@ -1,4 +1,4 @@
-// Vencord 41b30d6
+// Vencord cad4c15
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
